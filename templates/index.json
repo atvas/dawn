@@ -76,10 +76,29 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "172924575144eac352": {
+      "type": "apps",
+      "blocks": {
+        "theme_star_rating_bY7KcT": {
+          "type": "shopify://apps/theme/blocks/star_rating/265a9f60-9200-40fb-9d89-cd7a37d1a9ce",
+          "settings": {
+            "product": "selling-plans-ski-wax",
+            "colour": "#ff0000"
+          }
+        }
+      },
+      "block_order": [
+        "theme_star_rating_bY7KcT"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "172924575144eac352"
   ]
 }
