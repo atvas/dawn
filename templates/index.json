@@ -80,16 +80,16 @@
     "172924575144eac352": {
       "type": "apps",
       "blocks": {
-        "theme_star_rating_bY7KcT": {
-          "type": "shopify://apps/theme/blocks/star_rating/265a9f60-9200-40fb-9d89-cd7a37d1a9ce",
+        "theme_message_FjqNiA": {
+          "type": "shopify://apps/theme/blocks/message/265a9f60-9200-40fb-9d89-cd7a37d1a9ce",
           "settings": {
-            "product": "selling-plans-ski-wax",
-            "colour": "#ff0000"
+            "message": "描述性文字通知",
+            "show": true
           }
         }
       },
       "block_order": [
-        "theme_star_rating_bY7KcT"
+        "theme_message_FjqNiA"
       ],
       "settings": {
         "include_margins": true
