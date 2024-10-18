@@ -60,7 +60,7 @@
         "theme_message_jzkgKN": {
           "type": "shopify://apps/theme/blocks/message/265a9f60-9200-40fb-9d89-cd7a37d1a9ce",
           "settings": {
-            "message": "这里是一段文字",
+            "message": "这里是一段文字 ..",
             "show": true
           }
         }
