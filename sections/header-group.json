@@ -68,6 +68,7 @@
       "block_order": [
         "theme_message_jzkgKN"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
